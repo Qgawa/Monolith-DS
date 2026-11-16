@@ -6,7 +6,7 @@
   price: 40000
   category: Small
   group: Medical
-  shuttlePath: /SharedMaps/_LuaM/Shuttles/med/aeon.yml
+  shuttlePath: /SharedMaps/_LuaM/Shuttles/Med/aeon.yml
   guidebookPage: null
   class:
   - Civilian
